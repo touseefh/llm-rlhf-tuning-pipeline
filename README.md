@@ -88,10 +88,3 @@ The project uses sample datasets stored in public Google Cloud Storage buckets:
 - Use TensorBoard integration to track training metrics in real-time.
 - Check GCS bucket for generated artifacts and logs.
 
-## 📝 License
-
-Please refer to your organization's license for usage terms.
-
-## 🤝 Contributing
-
-For contributions or issues, please follow your organization's contribution guidelines.
